@@ -1,0 +1,13 @@
+com\example\BazaDanychHibernate\controller\WeatherController.class
+com\example\BazaDanychHibernate\service\WeatherInfo$NearestArea$AreaName.class
+com\example\BazaDanychHibernate\service\WeatherInfo$NearestArea.class
+com\example\BazaDanychHibernate\service\WeatherService.class
+com\example\BazaDanychHibernate\service\WeatherDTO.class
+com\example\BazaDanychHibernate\service\WeatherInfo.class
+com\example\BazaDanychHibernate\service\WeatherInfo$NearestArea$Country.class
+com\example\BazaDanychHibernate\service\WeatherMapper.class
+com\example\BazaDanychHibernate\service\WeatherInfo$CrurrentCondition.class
+com\example\BazaDanychHibernate\config\AppConfig.class
+com\example\BazaDanychHibernate\BazaDanychHibernateApplication.class
+com\example\BazaDanychHibernate\repository\entity\WeatherEntity.class
+com\example\BazaDanychHibernate\repository\WeatherRepository.class
